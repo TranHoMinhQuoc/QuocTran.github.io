@@ -3,11 +3,11 @@
 #### Technical Skills: Rstudio, SQL, AWS, Github
 
 ## Education
-**MSc, Business Analytics and Big Data | University of Dundee 
-**MSc, Hospitality Management | Technological University Dublin 	        		
+- MSc, Business Analytics and Big Data | University of Dundee
+- MSc, Hospitality Management | Technological University Dublin        		
 
 ## Work Experience
-**Data Analyst Intern @ International Economic Consultant (IEC Ltd) (_May 2023 - November 2023)**
+**Data Analyst Intern @ International Economic Consultant (IEC Ltd) (_May 2023 - November 2023_)**
 - Developed interactive RShiny dashboards from extracted datasets, automating the export of key insights to support economists in conducting further analysis.
 
 **Trust and Safety Associate / Risk Ads Team  @ Accenture (_June 2021 - November 2022_)**
