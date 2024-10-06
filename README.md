@@ -3,8 +3,8 @@
 #### Technical Skills: Rstudio, SQL, AWS, Github
 
 ## Education
-- MSc, Business Analytics and Big Data | University of Dundee 				       		
-- MSc, Hospitality Management	| Technological University Dublin 	        		
+MSc, Business Analytics and Big Data | University of Dundee
+MSc, Hospitality Management | Technological University Dublin 	        		
 
 ## Work Experience
 **Data Analyst Intern @ International Economic Consultant (IEC Ltd) (_May 2023 - November 2023)**
