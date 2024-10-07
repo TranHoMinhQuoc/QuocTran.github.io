@@ -20,7 +20,7 @@
 
 Developed ..........
 
-![PE Model](/assets/PE.pgf)
+![PE Model](/assets/PE.png)
 
 ### Data Engineering - Vending Machine 
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
