@@ -3,7 +3,7 @@
 #### Technical Skills: Rstudio, SQL, AWS, Github
 
 ## Education
-![Educationl](/assets/Education.png)   		
+![Educationl](/assets/Edu.png)   		
 
 ## Work Experience
 **Data Analyst Intern @ International Economic Consultant (IEC Ltd) (_May 2023 - November 2023_)**
