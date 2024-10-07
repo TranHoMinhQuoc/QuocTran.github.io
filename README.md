@@ -20,7 +20,7 @@
 
 Developed ..........
 
-![PE Model](/assets/img/eeg_band_discovery.jpeg)
+![PE Model](/assets/PE.pgf)
 
 ### Data Engineering - Vending Machine 
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
