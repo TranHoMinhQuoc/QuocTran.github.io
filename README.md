@@ -1,4 +1,6 @@
+---
 image: /assets/logo.png
+---
 
 # Business Analyst
 
