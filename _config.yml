@@ -1,6 +1,6 @@
 title: Quoc Tran 
-logo: /assets/logo.png
-description: text below image 
+#logo: /assets/logo.png
+#description: text below image 
 #show_downloands: true 
 #theme: jekyll-theme-minimal 
 remote_theme: pages-themes/architect@v0.2.0
