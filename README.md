@@ -4,7 +4,7 @@
 #### Technical Skills: Rstudio, SQL, AWS, Github
 
 ## Education
-#![Educationl](/assets/edu1.png)  	
+#![Educationl](/assets/edu3.png)  	
 
 
 ## Work Experience
