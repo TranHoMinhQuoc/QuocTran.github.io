@@ -1,4 +1,4 @@
-       ![Logo](/assets/logo.png)  	
+ ![Logo](/assets/logo.png)  	
 # Business Analyst
 
  Technical Skills: Rstudio, SQL, AWS, Github
