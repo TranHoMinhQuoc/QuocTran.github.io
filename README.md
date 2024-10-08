@@ -1,3 +1,5 @@
+image: /assets/logo.png
+
 # Business Analyst
 
 #### Technical Skills: Rstudio, SQL, AWS, Github
