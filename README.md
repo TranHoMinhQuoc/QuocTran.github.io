@@ -5,8 +5,7 @@
 
 ## Education
 ![Educationl](/assets/edu3.png)  	
-MSc Business Analytics and Big Data | University of Dundee
-MSc Hospitality Management | Technological University Dublin 
+
 
 ## Work Experience
  **Data Analyst Intern @ International Economic Consultant (IEC Ltd) (_May 2023 - November 2023_)**
