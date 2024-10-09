@@ -17,18 +17,16 @@
 
 ## Projects
 Partial Equilibrium Model with Rstudio and SQL
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed ..........
 
 ![PE Model](/assets/PE1.png)
 
 ### Data Engineering - Vending Machine 
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 .....................
 
-![Vending Machine](/assets/img/bike_study.jpeg)
+![Vending Machine](/assets/SE.png)
 
 ## Certificates 
 - ...
