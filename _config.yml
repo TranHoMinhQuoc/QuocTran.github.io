@@ -1,5 +1,7 @@
 title: Quoc Tran 
 logo: /assets/logo.png
+social-network-links:
+  email: "tranhominhquoc@gmail.com"
 #description: text below image 
 #show_downloands: true 
 theme: jekyll-theme-minimal 
