@@ -27,13 +27,13 @@ Contributed to the development of a partial equilibrium model using **SQL, RStud
 A 3D interactive interface was built in **Power BI** to enable users to navigate through sectors and visually analyze trade impacts such as trade creation and diversion. This tool offers a dynamic and user-friendly way to interact with simulation results, supporting decision-making and deeper analysis.
 
 
-### ]Vending Machine Project 
+### Vending Machine Project 
 
-Contributed as a Business Analyst to the Vending Machine project during educational training. Responsibilities included understanding project requirements and creating Entity Relationship (ER), Use Case, Class, and Sequence Diagrams using **Visual Diagram for UML**. **ProjectLibre** was used for project management, with the project adhering to Object-Oriented principles and documented to IEEE standards. This project enhanced skills in requirement gathering, system design visualization, and project organization, providing a solid foundation in business analysis and project implementation.
-
+Contributed as a Business Analyst to the Vending Machine project during educational training. Responsibilities included understanding project requirements and creating Entity Relationship (ER), Use Case, Class, and Sequence Diagrams using **Visual Diagram for UML**. **ProjectLibre** was used for project management, with the project adhering to Object-Oriented principles and documented to IEEE standards.
 ![Vending Machine](/assets/SE.png)
+This project enhanced skills in requirement gathering, system design visualization, and project organization, providing a solid foundation in business analysis and project implementation.
 
-### Recognition and Feedback
+## Recognition and Feedback
 
 Throughout my career, I have consistently prioritized professionalism, customer satisfaction, and a commitment to delivering high-quality solutions. Below are a few examples of appreciation and recognition I have received from clients and customers, reflecting my dedication to meeting their needs and maintaining strong relationships. 
 
@@ -41,13 +41,11 @@ Throughout my career, I have consistently prioritized professionalism, customer 
 ![Thankyou](/assets/tks2.png)
 ![Thankyou](/assets/tks3.png)
 
-
 These acknowledgements highlight my ability to address challenges efficiently, provide timely support, and go above and beyond in my work.
 
 
 ## Certificates 
-
-- [GoogleData](https://coursera.org/share/fa885e62e429be528ce0f547ac4d8ffd)
-- [Fromdatatodecistion](https://images.credential.net/embed/4gfsochf.png)
+- [Imperial Business Analytics: From Data to Decisions (Imperial College Business London)](https://images.credential.net/embed/4gfsochf.png)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/fa885e62e429be528ce0f547ac4d8ffd)
 
 
