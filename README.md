@@ -1,7 +1,7 @@
 
 # Business Analyst
 
- Technical Skills: Rstudio, SQL, AWS, Github
+ ###Technical Skills: Rstudio, SQL, AWS, Power BI
 
 ## Education
 ![Educationl](/assets/edu3.png)  	
