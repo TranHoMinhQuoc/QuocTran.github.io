@@ -1,3 +1,4 @@
+[Download my CV](https://drive.google.com/uc?export=download&id=https://docs.google.com/document/d/1cLIRgVYstS7rgUaYQeHcM9Cd9-RAjZUu/edit?usp=sharing&ouid=110460241162170629994&rtpof=true&sd=true)
 
 # Business Analyst
 
