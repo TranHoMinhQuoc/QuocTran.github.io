@@ -2,7 +2,7 @@
 # Business Analyst
 
  **Technical Skills: Rstudio, SQL, AWS, Power BI**
-[Download my CV](https://drive.google.com/uc?export=download&id=https://docs.google.com/document/d/1cLIRgVYstS7rgUaYQeHcM9Cd9-RAjZUu/edit?usp=sharing&ouid=110460241162170629994&rtpof=true&sd=true)
+[Download my CV](https://drive.google.com/uc?export=download&id=1wL1vZgZ0AyANRwpfPNhNLhz938PjnPeE)
 
 ## Education
 ![Educationl](/assets/edu3.png)  	
