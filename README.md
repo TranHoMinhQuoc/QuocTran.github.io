@@ -4,7 +4,7 @@
 
 
 ## Technical Skills
-**Rstudio, SQL, AWS, Power BI, Visual Diagram for UML, ProjectLibre**
+- Rstudio, SQL, AWS, Power BI, Visual Diagram for UML, ProjectLibre 
 
 ## Education
 ![Educationl](/assets/edu3.png)  	
