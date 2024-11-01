@@ -1,6 +1,6 @@
 
 # Business Analytics 
-### [Download my CV](https://drive.google.com/uc?export=download&id=1tcZmGfVr-sUprBOxHR8xIFFLDUrPIep-)
+### [Download my CV](https://drive.google.com/uc?export=download&id=1AHR8wxDdZpHleQvvQzKxGdzXSgWvr4tt)
 
 
 ## Technical Skills
