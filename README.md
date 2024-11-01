@@ -1,10 +1,10 @@
 
-# Business Analyst
+# Business Analytics 
 ### [Download my CV](https://drive.google.com/uc?export=download&id=1tcZmGfVr-sUprBOxHR8xIFFLDUrPIep-)
 
 
 ## Technical Skills
-- Rstudio, SQL, AWS, Power BI, Visual Diagram for UML, ProjectLibre 
+- Rstudio, SQL, AWS, Power BI, Visual Diagram for UML, ProjectLibre, AML, KYC & CDD 
 
 ## Education
 ![Educationl](/assets/edu3.png)  	
